@@ -1,0 +1,2 @@
+# newrepo
+learn vscode+git
