@@ -1,6 +1,6 @@
 # newrepo
 learn vscode+git
-dfs
-dsatfg
+dfs/n
+dsatfg\n
 asdf
 
